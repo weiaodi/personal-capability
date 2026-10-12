@@ -8,7 +8,6 @@
 |---|---|---|
 | [investing_learning_plan_24_weeks.md](investing_learning_plan_24_weeks.md) | 投资 24 周计划：财务、交易、财报、估值、组合 | 主线教材 |
 | [understanding_people_52_week_learning_plan.md](understanding_people_52_week_learning_plan.md) | 理解人 52 周计划：情绪、动机、沟通、权力、博弈 | 主线教材 |
-| [psychology_human_behavior_52_week_plan.md](psychology_human_behavior_52_week_plan.md) | 上一份的早期版本，内容重复 | 备查 |
 
 ## 学习路径
 
@@ -54,4 +53,3 @@
 - 每周一个最小交付物：一张概念解释、一次真实应用或一份分析，任选其一。
 - 两个计划并行时各自放慢，允许 52 周计划用 18 个月走完。
 - 中断后从最近的真实问题恢复，不补旧账。
-
