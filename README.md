@@ -9,6 +9,8 @@
 | [investing_learning_plan_24_weeks.md](investing_learning_plan_24_weeks.md) | 投资 24 周计划：财务、交易、财报、估值、组合 | 主线教材 |
 | [understanding_people_52_week_learning_plan.md](understanding_people_52_week_learning_plan.md) | 理解人 52 周计划：情绪、动机、沟通、权力、博弈 | 主线教材 |
 
+AI 助手的工作约定见 [AGENTS.md](AGENTS.md)：角色、来源纪律和禁止事项。
+
 ## 学习路径
 
 ### 阶段 0｜入门（第 1—2 周）
